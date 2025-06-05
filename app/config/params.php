@@ -1,6 +1,7 @@
 <?php
 
 // Initialisation des zones dynamiques
+$title = "";
 $content = "";
 
 // Paramètres de connexion
